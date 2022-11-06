@@ -8,4 +8,4 @@ Files:
 - Code with descriptions and comments: CV_Project_Rods.ipynb
 - Resulting images report: Report_Computer_Vision.pdf
 
-The code can be run in jupyter notebooks or in vs code with the jupyter notebooks extensions.
+The code is written in python and it can be run in Jupyter Notebooks or in VS Code with the jupyter notebooks extensions and by install python + the requested libraries on your PC.
