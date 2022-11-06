@@ -1,7 +1,7 @@
 # CV_Project_Rods
-"Visual Inspection of Motorcycle Connecting Rods": Computer Vision and Image Processing course final project
+"Visual Inspection of Motorcycle Connecting Rods": Computer Vision and Image Processing course final team project
 
-University team project. Given an input of images of connecting rods with the presence of noise and other objects (such as dust, screws, nuts, bolts, etc...), the goal was to write an algorithm able to filter the images in order to compute the coordinates of the barycenters of each rod, classify the type of rod, pinpoint the location of the holes and compute their dimensions. OpenCV libraries and tools were used and the algorithm was written in Python.
+Given an input of images of connecting rods with the presence of noise and other objects (such as dust, screws, nuts, bolts, etc...), the goal was to write an algorithm able to filter the images in order to compute the coordinates of the barycenters of each rod, classify the type of rod, pinpoint the location of the holes and compute their dimensions. OpenCV libraries and tools were used and the algorithm was written in Python.
 
 Files:
 - Project instructions: Visual Inspection of Connecting Rods Project.pdf
